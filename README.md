@@ -1,8 +1,7 @@
-## Hi there 👋
+## 👋 Hello, I'm Mariam Yaya Traore!
 
 <!--
 **Mariamyaya/Mariamyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<p>👋 Hello, I'm Mariam Yaya Traore!
 <p>🔭 Étudiante en 4e année d'informatique (développement logiciel)</p>
 <p>🌱 Passionnée par le développement logiciel et toujours curieuse d'apprendre de nouvelles technologies</p>
 <p>🎯 Actuellement à la recherche d'un stage de 3 mois pour mettre en pratique mes connaissances théoriques</p>
