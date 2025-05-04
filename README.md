@@ -4,9 +4,9 @@
 **Mariamyaya/Mariamyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Me contacter :
 [![img_contact](./img/globe-light.svg)](https://www.linkedin.com/in/mariam-12)-->
-<p>🔭 Étudiante en 4e année d'informatique (développement logiciel)</p>
+<p>🔭 Étudiante en 4e année d'informatique (Software Engineering) à ESIEA</p>
 <p>🌱 Passionnée par le développement logiciel et toujours curieuse d'apprendre de nouvelles technologies</p>
-<p>🎯 Actuellement à la recherche d'un stage / alternance pour mettre en pratique mes connaissances théoriques</p>
+<p>🎯 Actuellement à la recherche d'une alternance de 12 à 24 mois pour mettre en pratique mes connaissances théoriques</p>
 <p>💡 Intéressée par le développement frontend et backend, avec une envie constante d'améliorer mes compétences</p>
 <p>🚀 Enthousiaste à l'idée de travailler sur des projets concrets et collaborer avec des équipes dynamiques</p> </br>  </br>  
 
