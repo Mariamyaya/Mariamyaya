@@ -4,9 +4,9 @@
 **Mariamyaya/Mariamyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Me contacter :
 [![img_contact](./img/globe-light.svg)](https://www.linkedin.com/in/mariam-12)-->
-<p>🔭 Étudiante en 4e année d'informatique (Software Engineering) à ESIEA</p>
-<p>🌱 Passionnée par le développement logiciel et toujours curieuse d'apprendre de nouvelles technologies</p>
-<p>🎯 Actuellement à la recherche d'une alternance de 12 à 24 mois pour mettre en pratique mes connaissances théoriques</p>
+<p>🔭 Étudiante en 5e année d'informatique à Paris Sclay (ISTY)</p>
+<p>🌱 Passionnée par le développement informatique (Logiciel, Web & mobile ) et toujours curieuse d'apprendre de nouvelles technologies</p>
+<p>🎯 Actuellement à la recherche d'un stage de 6 mois pour mettre en pratique mes connaissances théoriques</p>
 <p>💡 Intéressée par le développement frontend et backend, avec une envie constante d'améliorer mes compétences</p>
 <p>🚀 Enthousiaste à l'idée de travailler sur des projets concrets et collaborer avec des équipes dynamiques</p> </br>  </br>  
 
@@ -22,6 +22,7 @@
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </p> </br>   </br>  </br>   
           
 
